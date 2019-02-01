@@ -1,0 +1,3 @@
+student name : Roy Nuij
+student number : 628962
+student class : INFS1C
